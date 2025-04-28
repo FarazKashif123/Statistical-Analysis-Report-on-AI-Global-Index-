@@ -10,4 +10,4 @@ Visualizations: Graphs and charts (e.g., histograms, boxplots, scatterplots) to 
 
 Interpretations: Drawing conclusions from the statistical findings in the context of global AI development.
 
-This project was created as part of a Probability course project to practically apply statistical methods to real-world AI data.
+This project was created to practically apply statistical methods to real-world AI data.
