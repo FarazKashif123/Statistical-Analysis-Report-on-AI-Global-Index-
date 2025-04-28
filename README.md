@@ -1,4 +1,4 @@
-#Statistical Analysis Report on AI Global Index
+# Statistical Analysis Report on AI Global Index
 This project presents a statistical and probabilistic analysis of the AI Global Index. It focuses on exploring the trends, distributions, and correlations within the data using concepts of probability and statistics.
 Key highlights of the project include:
 
